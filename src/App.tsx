@@ -3,8 +3,6 @@ import cover from './assets/Credits goes to @orig_ginal on Instagram and @GG-UNI
 import pfp from './assets/🧋.jpg';
 import './App.css';
 import blueTick from './assets/verified.png';
-import tix from './assets/aesthetic messy header twitter.jpg';
-import banner from './assets/city.png';
 import EditProfileForm from './EditProfileForm';
 import locationPin from './assets/pin_927667.png';
 import calendar from './assets/icons8-calendar-32.png';
