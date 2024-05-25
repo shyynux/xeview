@@ -11,7 +11,7 @@ Welcome to **Xeview**, preview your X profile without making any actual changes 
 
 ## 💾 How to use
 
-1. Go to blahblahblah
+1. Go to [this place](https://xeview.vercel.app/)!
 2. click on edit profile. (insert a lil vid)
 
 ## 💾 Installation
