@@ -1,7 +1,5 @@
 # 🌟 Xeview 🌟
 
-![Retro Pixel GIF](https://media.giphy.com/media/l3vR9O4IMnlao1ijS/giphy.gif)
-
 Welcome to **Xeview**, preview your X profile without making any actual changes on twitter and temporairly loosing your blue tick!
 
 ## 🎨 Features
