@@ -40,7 +40,7 @@ React, typescript, tailwindCSS
 
 ## ✨ Request a Feature
 
-Got an idea to make Xeview even better? We’d love to hear it! Create an issue [here](https://github.com/yourusername/xeview/issues) to request a feature.
+Got an idea to make Xeview even better? We’d love to hear it! Create an issue [here](https://github.com/shyynux/xeview/issues) to request a feature.
 
 ## 📜 License
 
