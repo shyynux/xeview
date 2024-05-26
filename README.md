@@ -1,6 +1,7 @@
 # 🌟 Xeview 🌟
 
 Welcome to **Xeview**, preview your X profile without making any actual changes on twitter and temporairly loosing your blue tick!
+(work-in-progress-fix-responsiveness-and-make-it-mobile-friendly)
 
 ## 🎨 Features
 
